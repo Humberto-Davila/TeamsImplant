@@ -1,0 +1,2 @@
+C:\sektor7\StealthTeamsImplant\TeamsImplant\x64\Debug\TeamsImplant
+104.208.16.94:443
